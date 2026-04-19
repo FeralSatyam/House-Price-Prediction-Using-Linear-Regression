@@ -85,6 +85,8 @@ def gradient_descent(X_train, y_train, w, b, alpha, n):
 | **RMSE** | $68,707 | Typical prediction error |
 | **MAE** | $50,000 | Average absolute error |
 
+!(images/prediction.png)
+
 ## Results
 
 ### Feature Weights (Interpretation)
