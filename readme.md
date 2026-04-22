@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements **linear regression with gradient descent from scratch** to predict median house prices in California districts using the 1990 census data. The entire implementation uses only NumPy and pandas — no scikit-learn for the core algorithm.
+This project implements **linear regression with gradient descent from scratch** to predict median house prices in California districts using the 1990 census data. The entire implementation uses only NumPy and pandas - no scikit-learn for the core algorithm.
 
 This was completed as a hands-on extension of Andrew Ng's Machine Learning Specialization (Week 2), focusing on:
 - Multiple linear regression
